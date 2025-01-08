@@ -1,0 +1,60 @@
+body{
+  text-align: center;
+  background-image: url('Image.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* opacity: 0.1%; */
+}
+
+header{
+  background-color: black;
+  text-align: center;
+}
+header h1{
+  color: aliceblue;
+  padding: 10px;
+}
+header nav ul{
+  padding: 10px;
+}
+
+header nav ul li{
+  color: sandybrown;
+  display: inline;
+  padding: 20px;
+  margin: 20px;
+  
+}
+
+header nav ul li a{
+  
+  display: inline;
+  color:sandybrown;
+  text-decoration: none;
+  
+}
+#Home {
+  text-align: center;
+  border-radius: 50px;
+  
+}
+
+#Home img {
+  
+  border-radius: 50%;
+  
+}
+
+#Skills ul li{
+  display:inline ;
+  padding: 20px;
+}
+
+footer ul li{
+  display: inline;
+  padding: 10px;
+}
+
+main p{
+  padding-block: 10px;
+}
